@@ -1,3 +1,4 @@
+# this is the program of fctorial
 a=int(input('enter the number'))
 i=1
 if a >0 :
