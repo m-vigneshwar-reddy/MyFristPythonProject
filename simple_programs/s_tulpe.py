@@ -3,7 +3,7 @@ a =(4,5,'hi',7,8)
 print(type(nt))
 print(nt+a)
 
-print ""
+print ("\n")
 print("nt[1]:",nt[1])
 print("max:",max(nt))
 print("min:",min(nt))
